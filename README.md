@@ -19,7 +19,7 @@ I'm continuously looking to improve my skills and take on new challenges. My goa
 
 ## 📊 GitHub Stats
 
-![Profile View Counter](https://visitor-badge.glitch.me/badge?page_id=Izzeddin-Samara.Izzeddin-Samara)
+![Profile Views](https://komarev.com/ghpvc/?username=Izzeddin-Samara&color=blue)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izzeddin-Samara&show_icons=true&theme=radical)
 
