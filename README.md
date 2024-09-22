@@ -19,6 +19,8 @@ I'm continuously looking to improve my skills and take on new challenges. My goa
 
 ## 📊 GitHub Stats
 
+![Profile View Counter](https://visitor-badge.glitch.me/badge?page_id=Izzeddin-Samara.Izzeddin-Samara)
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izzeddin-Samara&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izzeddin-Samara&layout=compact&theme=radical)
