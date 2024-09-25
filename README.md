@@ -1,6 +1,7 @@
 # Hi, I'm Izz (Izzeddin) 👋
 
 I'm a Full Stack Developer with a passion for creating dynamic and user-friendly web applications. My expertise lies in both front-end and back-end development, with a strong focus on Django for building robust and scalable web applications.
+I'm currently expanding my skill set by learning the MERN stack (MongoDB, Express.js, React, and Node.js) to enhance my full stack development capabilities.
 
 ## 💼 What I Do
 - **Front-end Development**: Proficient in HTML, CSS, and JavaScript to create responsive and engaging user interfaces.
