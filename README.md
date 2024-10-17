@@ -7,7 +7,7 @@
         </a>
       </td>
       <td>
-        <img src="https://github.com/Izzeddin-Samara/TEST1/blob/main/NEW_ICONS/1_zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="Full Stack Developer" width="300" height="300">
+        <img src="https://github.com/Izzeddin-Samara/Izzeddin-Samara/blob/main/1_zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="Full Stack Developer" width="300" height="300">
       </td>
     </tr>
   </table>
