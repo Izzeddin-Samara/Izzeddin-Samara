@@ -1,7 +1,17 @@
-# Hi, I'm Izzeddin 👋
-
-I'm a Full Stack Developer with a passion for creating dynamic and user-friendly web applications. My expertise lies in both front-end and back-end development, with a strong focus on Django for building robust and scalable web applications.
-I'm currently expanding my skill set by learning the MERN stack (MongoDB, Express.js, React, and Node.js) to enhance my full stack development capabilities.
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0000FF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Izzeddin 👋 ;I'm+a+Full+Stack+Developer;I'm+currently+learning+MERN+Stack" alt="Typing SVG">
+        </a>
+      </td>
+      <td>
+        <img src="https://github.com/Izzeddin-Samara/TEST1/blob/main/NEW_ICONS/1_zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="Full Stack Developer" width="300" height="300">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 💼 What I Do
 - **Front-end Development**: Proficient in HTML, CSS, and JavaScript to create responsive and engaging user interfaces.
