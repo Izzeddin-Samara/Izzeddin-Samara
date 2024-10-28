@@ -60,7 +60,7 @@ I'm continuously looking to improve my skills and take on new challenges. My goa
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Izzeddin-Samara&color=blue)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izzeddin-Samara&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izzeddin-Samara&show_icons=true&theme=radical&v=1)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izzeddin-Samara&layout=compact&theme=radical)
 
