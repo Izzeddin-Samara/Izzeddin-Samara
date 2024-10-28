@@ -70,11 +70,7 @@ I'm continuously looking to improve my skills and take on new challenges. My goa
 
 
 ## 📫 Let's Connect
-<a href="https://www.linkedin.com/in/izzeddin-samara/" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" style="margin-right: 10px;"/>
-</a>
-<a href="mailto:izzidinsamara@gmail.com" style="text-decoration: none; border: none;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" width="40"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izzeddin-samara/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izzidinsamara@gmail.com)
 
 Feel free to reach out if you'd like to collaborate or have any questions!
