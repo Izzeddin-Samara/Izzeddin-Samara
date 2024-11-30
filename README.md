@@ -52,9 +52,8 @@
 ## 🚀 Projects
 Here are the notable projects I've worked on:
 
-- **Technicians Hub**: A web application for booking appointments with technicians, built with Django. It features user and technician management, session booking, and reviews. **[Project Link](https://github.com/talakh1798/Technicians-Hub)**
-
-- **FitnessTrack**: A fitness web application allowing users to book sessions with coaches and leave reviews. Built using Django, with features like coach profile management and session scheduling. **[Project Link](https://github.com/Izzeddin-Samara/Fitness_Track)**
+- **Technicians Hub**: A web application that connects users with professional technicians, built with Django. It features appointments booking, reviews, and contact form. **[Project Link](https://github.com/talakh1798/Technicians-Hub)**
+- **FitnessTrack**: A fitness web application that allows users to book sessions with coaches, leave reviews, and includes features like coach applications, coach profile management, and a contact form. **[Project Link](https://github.com/Izzeddin-Samara/Fitness_Track)**
 
 ## 🎯 Goals
 I'm continuously looking to improve my skills and take on new challenges. My goal is to keep building innovative web applications that provide real value to users and businesses.
