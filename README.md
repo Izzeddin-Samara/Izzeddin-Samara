@@ -54,6 +54,7 @@ Here are the notable projects I've worked on:
 
 - **Technicians Hub**: A web application that connects users with professional technicians, built with Django. It features appointments booking, reviews, and contact form. **[Project Link](https://github.com/talakh1798/Technicians-Hub)**
 - **FitnessTrack**: A fitness web application, built with Django. That allows users to book sessions with coaches, leave reviews, and includes features like coach applications, coach profile management, and a contact form. **[Project Link](https://github.com/Izzeddin-Samara/Fitness_Track)**
+- **TechNova**: s a modern software services website built with React and Tailwind CSS, offering a range of digital solutions including custom software development, cloud services, UI/UX design, cybersecurity, IT consulting, and digital transformation. It showcases company's services in a clean, responsive, and professional layout. **[Project Link](https://github.com/Izzeddin-Samara/TechNova)**
 
 ## 🎯 Goals
 I'm continuously looking to improve my skills and take on new challenges. My goal is to keep building innovative web applications that provide real value to users and businesses.
