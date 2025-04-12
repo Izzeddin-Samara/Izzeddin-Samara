@@ -32,6 +32,9 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
 
 
 ### 🗄 Databases
@@ -53,7 +56,9 @@
 Here are the notable projects I've worked on:
 
 - **Technicians Hub**: A web application that connects users with professional technicians, built with Django. It features appointments booking, reviews, and contact form. **[Project Link](https://github.com/talakh1798/Technicians-Hub)**
+
 - **FitnessTrack**: A fitness web application, built with Django. That allows users to book sessions with coaches, leave reviews, and includes features like coach applications, coach profile management, and a contact form. **[Project Link](https://github.com/Izzeddin-Samara/Fitness_Track)**
+
 - **TechNova**: s a modern software services website built with React and Tailwind CSS, offering a range of digital solutions including custom software development, cloud services, UI/UX design, cybersecurity, IT consulting, and digital transformation. It showcases company's services in a clean, responsive, and professional layout. **[Project Link](https://github.com/Izzeddin-Samara/TechNova)**
 
 ## 🎯 Goals
