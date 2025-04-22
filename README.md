@@ -2,11 +2,6 @@
   <table>
     <tr>
       <td>
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0000FF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Izzeddin 👋 ;I'm+a+Full+Stack+Developer;I'm+currently+learning+MERN+Stack" alt="Typing SVG">
-        </a>
-      </td>
-      <td>
         <img src="https://github.com/Izzeddin-Samara/Izzeddin-Samara/blob/main/1_zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="Full Stack Developer" width="300" height="300">
       </td>
     </tr>
