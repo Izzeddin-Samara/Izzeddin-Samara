@@ -1,12 +1,17 @@
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github.com/Izzeddin-Samara/Izzeddin-Samara/blob/main/1_zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="Full Stack Developer" width="300" height="300">
-      </td>
-    </tr>
-  </table>
+
+<div align="center" style="margin-top: 40px;">
+  <p >
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=500&color=%23009C91&width=1000&center=true&lines=Hello%2C+I'm+Izzeddin+Samara+👋;Full+Stack+Developer+💻;Turning+ideas+into+real-world+web+applications+🌍" alt="Typing SVG" />
+  </p>
+          <img src="https://github.com/Izzeddin-Samara/Izzeddin-Samara/blob/main/1_zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="Full Stack Developer" width="300" height="300">
+
 </div>
+
+
+
+
+
+
 
 ## 🛠 Skills and Technologies
 
