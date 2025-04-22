@@ -1,9 +1,9 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+I'm+Izzeddin+Samara+👋;I'm+a+Full+Stack+Developer+💻;Turning+ideas+into+real-world+web+applications+🌍&center=true&width=2500&height=500&size=80&color=%23009C91">
+  </a>
+</p
 
-<div align="center" style="margin-top: 40px;">
-  <p >
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=500&color=%23009C91&width=1000&center=true&lines=Hello%2C+I'm+Izzeddin+Samara+👋;Full+Stack+Developer+💻;Turning+ideas+into+real-world+web+applications+🌍" alt="Typing SVG" />
-  </p>
-</div>
 
 
 
