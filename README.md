@@ -4,52 +4,18 @@
   </a>
 </p
 
-
-
-
-
-
-
-
+_
 ## 🛠 Skills and Technologies
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py)](https://skillicons.dev)
 ### 🚀 Frameworks/Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=44B78B)
-![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
-![Jazzmin](https://img.shields.io/badge/Jazzmin-FF69B4?style=for-the-badge&logo=django&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-
-
+[![Frameworks/libraries](https://skillicons.dev/icons?i=django,react,nextjs,express,bootstrap,tailwindcss)](https://skillicons.dev)
 ### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+[![databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 ### 🛠 Tools
-![Ajax](https://img.shields.io/badge/Ajax-005571?style=for-the-badge&logo=ajax&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Mailjet](https://img.shields.io/badge/Mailjet-003580?style=for-the-badge&logo=mailjet&logoColor=purple)
-![Mailtrap](https://img.shields.io/badge/Mailtrap-5A5A5A?style=for-the-badge&logo=mailtrap&logoColor=white)
+[![tools](https://skillicons.dev/icons?i=postman,mysql,git,github,)](https://skillicons.dev)
+
 ## 🚀 Projects
 Here are the notable projects I've worked on:
 
