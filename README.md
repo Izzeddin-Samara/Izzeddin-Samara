@@ -19,11 +19,13 @@ _
 ## 🚀 Projects
 Here are the notable projects I've worked on:
 
-- **Technicians Hub**: A web application that connects users with professional technicians, built with Django. It features appointments booking, reviews, and contact form. **[Project Link](https://github.com/talakh1798/Technicians-Hub)**
-
-- **FitnessTrack**: A fitness web application, built with Django. That allows users to book sessions with coaches, leave reviews, and includes features like coach applications, coach profile management, and a contact form. **[Project Link](https://github.com/Izzeddin-Samara/Fitness_Track)**
-
 - **TechNova**: is a modern software services website built with React and Tailwind CSS, offering a range of digital solutions including custom software development, cloud services, UI/UX design, cybersecurity, IT consulting, and digital transformation. It showcases company's services in a clean, responsive, and professional layout. **[Project Link](https://github.com/Izzeddin-Samara/TechNova)**
+
+- **TeamBase**: TeamBase is a web application for managing team member information. It includes login and registration features, and allows users to add, edit, delete, and search employee records. It also includes a contact form powered by Mailjet, all presented in a clean, responsive UI. **[Project Link](https://github.com/Izzeddin-Samara/TeamBase)**
+
+- **Portfolio**: A responsive portfolio web application showcasing my projects, skills, and experience — built with Next.js, TypeScript, Tailwind CSS and Flowbite for some UI components and deployed on Vercel. Features include light/dark mode toggle and a contact form powered by EmailJS. **[Project Link](https://github.com/Izzeddin-Samara/My_Portfolio)**
+
+
 
 ## 🎯 Goals
 I'm continuously looking to improve my skills and take on new challenges. My goal is to keep building innovative web applications that provide real value to users and businesses.
