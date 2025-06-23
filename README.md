@@ -19,11 +19,11 @@ _
 ## 🚀 Projects
 Here are the notable projects I've worked on:
 
-- **TechNova**: is a modern software services website built with React and Tailwind CSS, offering a range of digital solutions including custom software development, cloud services, UI/UX design, cybersecurity, IT consulting, and digital transformation. It showcases company's services in a clean, responsive, and professional layout. **[Project Link](https://github.com/Izzeddin-Samara/TechNova)**
+- **TechNova**: is a modern software services website built with React and Tailwind CSS, offering a range of digital solutions including custom software development, cloud services, UI/UX design, cybersecurity, IT consulting, and digital transformation. It showcases company's services in a clean, responsive, and professional layout. [ **[GitHub repo](https://github.com/Izzeddin-Samara/TechNova)** | **[Live Demo](https://tech-nova-tawny.vercel.app/)** ]
 
-- **TeamBase**: TeamBase is a web application for managing team member information. It includes login and registration features, and allows users to add, edit, delete, and search employee records. It also includes a contact form powered by Mailjet, all presented in a clean, responsive UI. **[Project Link](https://github.com/Izzeddin-Samara/TeamBase)**
+- **TeamBase**: TeamBase is a web application for managing team member information. It includes login and registration features, and allows users to add, edit, delete, and search employee records. It also includes a contact form powered by Mailjet, all presented in a clean, responsive UI. [ **[GitHub repo](https://github.com/Izzeddin-Samara/TeamBase)** | **[Live Demo](https://team-base-dd23.vercel.app/)** ]
 
-- **Portfolio**: A responsive portfolio web application showcasing my projects, skills, and experience — built with Next.js, TypeScript, Tailwind CSS and Flowbite for some UI components and deployed on Vercel. Features include light/dark mode toggle and a contact form powered by EmailJS. **[Project Link](https://github.com/Izzeddin-Samara/My_Portfolio)**
+- **Portfolio**: A responsive portfolio web application showcasing my projects, skills, and experience — built with Next.js, TypeScript, Tailwind CSS and Flowbite for some UI components and deployed on Vercel. Features include light/dark mode toggle and a contact form powered by EmailJS. [ **[GitHub repo](https://github.com/Izzeddin-Samara/My_Portfolio)** | **[Live Demo](https://izzeddin-samara.vercel.app/)** ]
 
 
 
