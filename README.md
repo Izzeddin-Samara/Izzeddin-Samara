@@ -4,7 +4,7 @@
   </a>
 </p
 
-_
+_________
 ## 🛠 Skills and Technologies
 
 ### 💻 Languages
