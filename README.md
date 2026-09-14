@@ -46,5 +46,5 @@ I'm continuously looking to improve my skills and take on new challenges. My goa
 ## 📫 Let's Connect
 I’m always open to new opportunities, collaborations, or just a friendly chat — feel free to connect!
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:izzeddinsamara@outlook.com) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/izzeddin-samara/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:izzeddinsamara1@gmail.com) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/izzeddin-samara/)
 
