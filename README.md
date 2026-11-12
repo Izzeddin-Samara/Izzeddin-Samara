@@ -26,4 +26,12 @@ My goal is to extract deep business value, optimize analytical processes, and te
 ## 📫 Let's Connect
 I’m always open to new opportunities in Data Analysis, collaborations, or just a friendly chat — feel free to connect!
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:izzeddinsamara@outlook.com) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/izzeddin-samara/)
+<p align="left">
+  <a href="mailto:izzeddinsamara@outlook.com">
+    <img src="https://github.com/Izzeddin-Samara/Izzeddin-Samara/blob/main/Outlook.webp" alt="Outlook" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/izzeddin-samara/">
+    <img src="https://github.com/Izzeddin-Samara/Izzeddin-Samara/blob/main/LinkedIn.webp" alt="LinkedIn" width="40" height="40" />
+  </a>
+</p>
