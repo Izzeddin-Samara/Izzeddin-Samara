@@ -30,7 +30,6 @@ I’m always open to new opportunities in Data Analysis, collaborations, or just
   <a href="mailto:izzeddinsamara@outlook.com">
     <img src="https://github.com/Izzeddin-Samara/Izzeddin-Samara/blob/main/Outlook.webp" alt="Outlook" width="40" height="40" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/izzeddin-samara/">
     <img src="https://github.com/Izzeddin-Samara/Izzeddin-Samara/blob/main/LinkedIn.webp" alt="LinkedIn" width="40" height="40" />
   </a>
