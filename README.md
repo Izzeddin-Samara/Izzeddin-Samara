@@ -27,11 +27,7 @@ My goal is to extract deep business value, optimize analytical processes, and te
 I’m always open to new opportunities in Data Analysis, collaborations, or just a friendly chat — feel free to connect!
 
 <p align="left">
-  <a href="mailto:izzeddinsamara@outlook.com" style="text-decoration: none;">
-    <img src="https://github.com/Izzeddin-Samara/Izzeddin-Samara/blob/main/Outlook.webp" alt="Outlook" width="40" height="40" style="border: none;" />
-  </a>
+  <a href="mailto:izzeddinsamara@outlook.com"><img src="https://github.com/Izzeddin-Samara/Izzeddin-Samara/blob/main/Outlook.webp?raw=true" alt="Outlook" width="40" height="40" /></a>
    
-  <a href="https://www.linkedin.com/in/izzeddin-samara/" style="text-decoration: none;">
-    <img src="https://github.com/Izzeddin-Samara/Izzeddin-Samara/blob/main/LinkedIn.webp" alt="LinkedIn" width="40" height="40" style="border: none;" />
-  </a>
+  <a href="https://www.linkedin.com/in/izzeddin-samara/"><img src="https://github.com/Izzeddin-Samara/Izzeddin-Samara/blob/main/LinkedIn.webp?raw=true" alt="LinkedIn" width="40" height="40" /></a>
 </p>
